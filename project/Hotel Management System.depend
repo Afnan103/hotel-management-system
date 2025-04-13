@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1735311765 source:d:\fall 24\programming 1\project\prog\hotel management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"login.h"
+	"quit.h"
+	"reservations_controller.h"
+	"checkin_checkout.h"
+	"rooms_controller.h"
+	"view_costumer_details.h"
+	"query.h"
+
+1735311119 d:\fall 24\programming 1\project\prog\hotel management system\input.h
+
+1735309758 d:\fall 24\programming 1\project\prog\hotel management system\login.h
+	<string.h>
+
+1735302540 d:\fall 24\programming 1\project\prog\hotel management system\quit.h
+
+1735309890 d:\fall 24\programming 1\project\prog\hotel management system\reservations_controller.h
+	"reservations.h"
+	"sort_res_by_date.h"
+
+1735313500 d:\fall 24\programming 1\project\prog\hotel management system\reservations.h
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+	"rooms.h"
+
+1735306562 d:\fall 24\programming 1\project\prog\hotel management system\rooms.h
+	<string.h>
+
+1735305789 d:\fall 24\programming 1\project\prog\hotel management system\sort_res_by_date.h
+	"reservations.h"
+
+1735314143 d:\fall 24\programming 1\project\prog\hotel management system\checkin_checkout.h
+	"reservations.h"
+	"rooms.h"
+	"input.h"
+	<stdlib.h>
+	"print.h"
+
+1735309446 d:\fall 24\programming 1\project\prog\hotel management system\rooms_controller.h
+	"rooms.h"
+	"print.h"
+
+1735315375 d:\fall 24\programming 1\project\prog\hotel management system\print.h
+
+1735306894 d:\fall 24\programming 1\project\prog\hotel management system\view_costumer_details.h
+	"reservations.h"
+	"rooms.h"
+
+1735315233 d:\fall 24\programming 1\project\prog\hotel management system\query.h
+	"reservations.h"
+	"rooms.h"
+	"print.h"
+
+1735425990 source:c:\users\wael\desktop\hotel management system 1.1\hotel management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"login.h"
+	"quit.h"
+	"reservations_controller.h"
+	"checkin_checkout.h"
+	"rooms_controller.h"
+	"view_costumer_details.h"
+	"query.h"
+
+1735410850 c:\users\wael\desktop\hotel management system 1.1\hotel management system\input.h
+	<ctype.h>
+	<string.h>
+
+1735412247 c:\users\wael\desktop\hotel management system 1.1\hotel management system\login.h
+	<string.h>
+
+1735302540 c:\users\wael\desktop\hotel management system 1.1\hotel management system\quit.h
+
+1735431703 c:\users\wael\desktop\hotel management system 1.1\hotel management system\reservations_controller.h
+	"reservations.h"
+	"sort_res_by_date.h"
+	"rooms_controller.h"
+
+1735409328 c:\users\wael\desktop\hotel management system 1.1\hotel management system\reservations.h
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+	"rooms.h"
+
+1735306562 c:\users\wael\desktop\hotel management system 1.1\hotel management system\rooms.h
+	<string.h>
+
+1735305789 c:\users\wael\desktop\hotel management system 1.1\hotel management system\sort_res_by_date.h
+	"reservations.h"
+
+1735431558 c:\users\wael\desktop\hotel management system 1.1\hotel management system\checkin_checkout.h
+	"reservations.h"
+	"rooms.h"
+	"input.h"
+	<stdlib.h>
+	"print.h"
+
+1735413141 c:\users\wael\desktop\hotel management system 1.1\hotel management system\print.h
+
+1735424795 c:\users\wael\desktop\hotel management system 1.1\hotel management system\rooms_controller.h
+	"rooms.h"
+	"print.h"
+
+1735431963 c:\users\wael\desktop\hotel management system 1.1\hotel management system\view_costumer_details.h
+	"reservations.h"
+	"rooms.h"
+	"input.h"
+
+1735428074 c:\users\wael\desktop\hotel management system 1.1\hotel management system\query.h
+	"reservations.h"
+	"rooms.h"
+	"print.h"
+
+1735464803 source:c:\users\20115\downloads\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"login.h"
+	"quit.h"
+	"reservations_controller.h"
+	"checkin_checkout.h"
+	"rooms_controller.h"
+	"view_costumer_details.h"
+	"query.h"
+	<windows.h>
+
+1735464448 c:\users\20115\downloads\project\input.h
+	<ctype.h>
+	<string.h>
+
+1735463108 c:\users\20115\downloads\project\login.h
+	<string.h>
+
+1735462939 c:\users\20115\downloads\project\quit.h
+
+1735462772 c:\users\20115\downloads\project\reservations_controller.h
+	"reservations.h"
+	"sort_res_by_date.h"
+	"rooms_controller.h"
+
+1735409330 c:\users\20115\downloads\project\reservations.h
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"input.h"
+	"rooms.h"
+
+1735306564 c:\users\20115\downloads\project\rooms.h
+	<string.h>
+
+1735305790 c:\users\20115\downloads\project\sort_res_by_date.h
+	"reservations.h"
+
+1735462894 c:\users\20115\downloads\project\rooms_controller.h
+	"rooms.h"
+	"print.h"
+
+1735462725 c:\users\20115\downloads\project\print.h
+
+1735462841 c:\users\20115\downloads\project\checkin_checkout.h
+	"reservations.h"
+	"rooms.h"
+	"input.h"
+	<stdlib.h>
+	"print.h"
+
+1735462871 c:\users\20115\downloads\project\view_costumer_details.h
+	"reservations.h"
+	"rooms.h"
+	"input.h"
+
+1735463319 c:\users\20115\downloads\project\query.h
+	"reservations.h"
+	"rooms.h"
+	"print.h"
+
